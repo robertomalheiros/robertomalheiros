@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+**My name is Roberto Malheiros**
+
+## My main stacks are:
+
+-   Python
+-   JavaScript
+-   MERG
+-   HTML
+-   CSS
+-   React
+-   NextJS
+-   MongoDB
+-   APIs RESTFull
+-   Web Scraping
+-   Task Automation
+-   Zabbix
+-   Telecommunications Networks
 
 
 <div style="display: inline_block"><br>
