@@ -10,6 +10,7 @@
 -   HTML
 -   CSS
 -   React
+-   Django
 -   NextJS
 -   MongoDB
 -   APIs RESTFull
