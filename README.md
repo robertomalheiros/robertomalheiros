@@ -6,7 +6,7 @@
 
 -   Python
 -   JavaScript
--   MERG
+-   MERN
 -   HTML
 -   CSS
 -   React
