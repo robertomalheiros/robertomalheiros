@@ -13,6 +13,7 @@
 -   Django
 -   NextJS
 -   MongoDB
+-   PostgreSQL
 -   APIs RESTFull
 -   Web Scraping
 -   Task Automation
