@@ -18,6 +18,9 @@
 -   Web Scraping
 -   Task Automation
 -   Zabbix
+-   Docker
+-   AI (Artificial Intelligence)
+-   Automations with generative AI
 -   Telecommunications Networks
 
 
